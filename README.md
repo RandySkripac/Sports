@@ -1,2 +1,2 @@
 # Sports
-This is a fun data analytics program that I will use to track my progress in various intramural sports and recreational golfing. It uses SQL and Excel. 
+These databases contain SQL and Excel databases about golf and other sports. I plan on embedding some SQL in java to manipulate these databases in life.java.  
