@@ -1,2 +1,3 @@
 # Sports
-These databases contain SQL and Excel databases about golf and other sports. I plan on embedding some SQL in java to manipulate these databases in life.java.  
+download golf.db the database and plug it into whatever SQL editor you use to see what I have in there.
+Currently it's just a lift of courses and their attributes. 
